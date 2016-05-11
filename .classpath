@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/myjar/itextpdf-5.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/myjar/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/myjar/poi-3.12-beta1-20150228.jar"/>
+	<classpathentry kind="lib" path="D:/myjar/httpclient-4.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/myjar/httpcore-4.3.jar"/>
+	<classpathentry kind="lib" path="D:/myjar/httpmime-4.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/myjar/httpmime-4.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/myjar/httpsoap-1.0.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="D:/Yun/ssh/gson.jar"/>
+	<classpathentry kind="lib" path="D:/Yun/ssh/json-lib-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Yun/ssh/json-lib-2.2.2-jdk15.jar"/>
+	<classpathentry kind="lib" path="D:/myjar/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/myjar/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/myjar/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/myjar/commons-configuration-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/myjar/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/myjar/commons-digester.jar"/>
+	<classpathentry kind="lib" path="D:/myjar/commons-discovery-0.4.jar"/>
+	<classpathentry kind="lib" path="D:/myjar/commons-fileupload-1.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/myjar/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/myjar/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/myjar/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/myjar/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/myjar/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/myjar/commons-logging-api-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/myjar/commons-net-2.0.jar"/>
+	<classpathentry kind="lib" path="D:/myjar/commons-pool-1.6.jar"/>
+	<classpathentry kind="lib" path="D:/myjar/commons-pool2-2.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Yun/ssh/ezmorph-1.0.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
